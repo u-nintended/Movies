@@ -7,11 +7,10 @@ export default function Home() {
       <Button>Click me</Button>
   
 
-      <div className="align-center flex-col  p-75"></div>
+      <div className="align-center flex-col"></div>
       <Button>Click me</Button>
       </div>
     
     
   );
 }
-

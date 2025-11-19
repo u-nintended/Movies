@@ -1,52 +1,22 @@
-[00:00:01.115] Server  LOG      ✓ Ready in 829ms
-[00:00:53.655] Server  LOG      ○ Compiling / ...
-[00:00:55.657] Server  ERROR    ⨯ ./app/page.tsx:14:6
-Parsing ecmascript source code failed
-  12 |       </div>
-  13 |     
-> 14 |     </div>
-     |      ^^^^^
-  15 |
-  16 |     
-  17 |
-
-Unterminated regexp literal
-
-
-[00:00:58.855] Browser ERROR   uncaughtError: Error: ./app/page.tsx:14:6
-Parsing ecmascript source code failed
-  12 |       </div>
-  13 |     
-> 14 |     </div>
-     |      ^^^^^
-  15 |
-  16 |     
-  17 |
-
-Unterminated regexp literal
-
-
-[00:00:59.444] Browser ERROR   ./app/page.tsx:14:6
-Parsing ecmascript source code failed
-  12 |       </div>
-  13 |     
-> 14 |     </div>
-     |      ^^^^^
-  15 |
-  16 |     
-  17 |
-
-Unterminated regexp literal
-[00:01:00.443] Browser ERROR   ./app/page.tsx:14:6
-Parsing ecmascript source code failed
-  12 |       </div>
-  13 |     
-> 14 |     </div>
-     |      ^^^^^
-  15 |
-  16 |     
-  17 |
-
-Unterminated regexp literal
-[00:02:59.759] Server  LOG      ✓ Compiled in 171ms
-[00:03:01.176] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:01.278] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.381] Server  LOG      ✓ Ready in 1161ms
+[00:00:21.613] Server  LOG      ○ Compiling / ...
+[00:00:23.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:24.065] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:52.233] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:52.817] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:05:32.284] Server  LOG      ✓ Compiled in 98ms
+[00:06:01.874] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:02.149] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:06:05.865] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:06:19.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:19.621] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:06:21.826] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:06:59.002] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:59.271] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:08:16.997] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:08:43.594] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:44.021] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:09:01.985] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:09:13.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:13.696] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
