@@ -1,0 +1,52 @@
+[00:00:01.115] Server  LOG      ✓ Ready in 829ms
+[00:00:53.655] Server  LOG      ○ Compiling / ...
+[00:00:55.657] Server  ERROR    ⨯ ./app/page.tsx:14:6
+Parsing ecmascript source code failed
+  12 |       </div>
+  13 |     
+> 14 |     </div>
+     |      ^^^^^
+  15 |
+  16 |     
+  17 |
+
+Unterminated regexp literal
+
+
+[00:00:58.855] Browser ERROR   uncaughtError: Error: ./app/page.tsx:14:6
+Parsing ecmascript source code failed
+  12 |       </div>
+  13 |     
+> 14 |     </div>
+     |      ^^^^^
+  15 |
+  16 |     
+  17 |
+
+Unterminated regexp literal
+
+
+[00:00:59.444] Browser ERROR   ./app/page.tsx:14:6
+Parsing ecmascript source code failed
+  12 |       </div>
+  13 |     
+> 14 |     </div>
+     |      ^^^^^
+  15 |
+  16 |     
+  17 |
+
+Unterminated regexp literal
+[00:01:00.443] Browser ERROR   ./app/page.tsx:14:6
+Parsing ecmascript source code failed
+  12 |       </div>
+  13 |     
+> 14 |     </div>
+     |      ^^^^^
+  15 |
+  16 |     
+  17 |
+
+Unterminated regexp literal
+[00:02:59.759] Server  LOG      ✓ Compiled in 171ms
+[00:03:01.176] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
