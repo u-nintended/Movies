@@ -1,22 +1,123 @@
-[00:00:01.278] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
-[00:00:01.381] Server  LOG      ✓ Ready in 1161ms
-[00:00:21.613] Server  LOG      ○ Compiling / ...
-[00:00:23.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:24.065] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:00:52.233] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:52.817] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:05:32.284] Server  LOG      ✓ Compiled in 98ms
-[00:06:01.874] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:02.149] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:06:05.865] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:06:19.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:19.621] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:06:21.826] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:06:59.002] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:59.271] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:08:16.997] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:08:43.594] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:44.021] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:09:01.985] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:09:13.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:13.696] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:01.374] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.627] Server  LOG      ✓ Ready in 1334ms
+[00:00:06.241] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.682] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.707] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.726] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.737] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.754] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.769] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.831] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.864] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.886] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.945] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:08.950] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.036] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.041] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.078] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.114] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.133] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.156] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.166] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.186] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.196] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.477] Browser ERROR   uncaughtError: Error: ./middleware.ts
+Middleware is missing expected function export name
+This function is what Next.js runs for every request handled by this middleware.
+
+Why this happens:
+- The file exists but doesn't export a function.
+- The export is not a function (e.g., an object or constant).
+- There's a syntax error preventing the export from being recognized.
+
+To fix it:
+- Ensure this file has either a default or "middleware" function export.
+
+Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+
+
+[00:00:09.488] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:09.508] Server  ERROR    ⨯ Error: The Middleware file "/middleware" must export a function named `middleware` or a default function.
+[00:00:11.023] Browser ERROR   ./middleware.ts
+Middleware is missing expected function export name
+This function is what Next.js runs for every request handled by this middleware.
+
+Why this happens:
+- The file exists but doesn't export a function.
+- The export is not a function (e.g., an object or constant).
+- There's a syntax error preventing the export from being recognized.
+
+To fix it:
+- Ensure this file has either a default or "middleware" function export.
+
+Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:11.624] Server  LOG      ○ Compiling /_not-found/page ...
+[00:00:13.944] Server  ERROR    ⨯ Error: Clerk: auth() was called but Clerk can't detect usage of clerkMiddleware(). Please ensure the following:
+- Your Middleware exists at ./middleware.(ts|js)
+- clerkMiddleware() is used in your Next.js Middleware.
+- Your Middleware matcher is configured to match this route or page.
+- If you are using the src directory, make sure the Middleware file is inside of it.
+
+For more details, see https://clerk.com/err/auth-middleware
+
+[00:00:13.952] Server  ERROR    ⨯ Error: Clerk: auth() was called but Clerk can't detect usage of clerkMiddleware(). Please ensure the following:
+- Your Middleware exists at ./middleware.(ts|js)
+- clerkMiddleware() is used in your Next.js Middleware.
+- Your Middleware matcher is configured to match this route or page.
+- If you are using the src directory, make sure the Middleware file is inside of it.
+
+For more details, see https://clerk.com/err/auth-middleware
+
+[00:00:13.953] Browser ERROR   ./middleware.ts
+Middleware is missing expected function export name
+This function is what Next.js runs for every request handled by this middleware.
+
+Why this happens:
+- The file exists but doesn't export a function.
+- The export is not a function (e.g., an object or constant).
+- There's a syntax error preventing the export from being recognized.
+
+To fix it:
+- Ensure this file has either a default or "middleware" function export.
+
+Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:13.954] Browser ERROR   ./middleware.ts
+Middleware is missing expected function export name
+This function is what Next.js runs for every request handled by this middleware.
+
+Why this happens:
+- The file exists but doesn't export a function.
+- The export is not a function (e.g., an object or constant).
+- There's a syntax error preventing the export from being recognized.
+
+To fix it:
+- Ensure this file has either a default or "middleware" function export.
+
+Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:14.097] Browser ERROR   ./middleware.ts
+Middleware is missing expected function export name
+This function is what Next.js runs for every request handled by this middleware.
+
+Why this happens:
+- The file exists but doesn't export a function.
+- The export is not a function (e.g., an object or constant).
+- There's a syntax error preventing the export from being recognized.
+
+To fix it:
+- Ensure this file has either a default or "middleware" function export.
+
+Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:01:16.624] Server  LOG      ✓ Compiled in 32ms
+[00:01:22.072] Server  ERROR    ⨯ Error: @clerk/clerk-react: SignInButton can only be used within the <ClerkProvider /> component. Learn more: https://clerk.com/docs/components/clerk-provider
+[00:01:22.606] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:22.902] Browser ERROR   uncaughtError: Error: @clerk/clerk-react: SignInButton can only be used within the <ClerkProvider /> component. Learn more: https://clerk.com/docs/components/clerk-provider
+[00:02:19.681] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:02:19.681] Server  LOG      ✓ Compiled in 172ms
+[00:02:20.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:22.562] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:02:27.330] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:27.475] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:02:31.018] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:07:24.104] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:24.501] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:07:25.761] Browser WARN    Clerk: The prop "redirectUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
